@@ -1,0 +1,25 @@
+body {
+  background-image: url(./h22.jpg);
+  width: min-content;
+}
+
+* {
+  color: blueviolet;
+  font-size: 20px;
+  font-style: italic;
+}
+li {
+  color: red;
+  font-size: 30px;
+  font-style: normal;
+}
+.huy {
+  color: green;
+  font-size: 40px;
+  font-style: oblique;
+}
+h2.huy {
+  color: yellow;
+  font-size: 50px;
+  font-style: italic;
+}
